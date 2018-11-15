@@ -50,6 +50,12 @@ h1 {
 .person-image {
     border-radius: 50%;
     border: 3px solid gray;
+    width: 150px;
+    height: 150px;
+}
+
+.name {
+    padding-top: 1rem;
 }
 
 
